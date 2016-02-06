@@ -1,0 +1,32 @@
+.header {
+	text-align: center;
+	background-color: #ffffff;
+	color: #000000;
+	min-height: 150px;
+}
+
+.calculo {
+	margin-top: -25px;
+	text-align: center;
+	background-color: #ffffff;
+	color: #000000;
+	min-height: 350px;
+}
+
+.calculo button {
+	margin-top: 5px;
+	width: 25px;
+	height: 25px;
+	background-color: #468499;
+	border: none;
+	color: #ffffff;
+	padding: 3px 5px;
+	text-align: center;
+    text-decoration: none;
+}
+
+.calculo input {
+	margin-top: 3px;
+	width: 25px;
+}
+
